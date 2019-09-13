@@ -1,7 +1,6 @@
 # DB設計
 
 **users table**
-* デバイスを使用して作成
 
 | Column | type   | Option |
 |:--|:--|:---|
